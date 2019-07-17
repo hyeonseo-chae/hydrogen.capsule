@@ -1,0 +1,12 @@
+structure (Info) {
+  description (__DESCRIPTION__)
+  property (title) {
+    type (Title)
+    min (Optional) max (One)
+  }
+  property (content) {
+    type (Content)
+    min (Optional) max (One)
+  }
+  
+}

@@ -1,0 +1,43 @@
+layout-macro-def (HydrogenCall1) {
+  params {
+    param (info) {
+      type (StoreInfo)
+      min (Optional) max (One)
+    }
+  }
+  
+  
+  content {
+    section{
+      title{
+        template ("")
+      }
+      content{
+        
+        for-each(info.call){ 
+          as (subinfo){
+            
+            cell-card{
+               
+              slot2{
+                content{
+                  primary("해당 수소 충전소로 전화 걸기")
+                
+                }
+                
+              }
+              
+
+              on-click{
+                intent{
+                  goal: Call
+                  value: $expr(info.call)
+                }
+              }
+               }
+            }           
+          }
+        }
+      }
+    }
+}

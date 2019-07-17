@@ -1,0 +1,10 @@
+train (t-smxdcedijfh57728x29oh4qs9) {
+  utterance ([g:Hydrogen] 수소 충전 기)
+  plan (Y2BkEMuoTCnKT0/N00vLzEvR84DyGECAEUQAAA==)
+  last-modified (1561983732985)
+}
+train (t-squfv0pjh2y1j8kbtwy3e6r0q) {
+  utterance ("[g:StoreInfo] (경기)[v:geo.LevelOneDivisionName] 충전소")
+  plan (fc7tCoIwGIbhR/uuv0EFYWcgdAhFBEEU5BGMfNUXdAO1QX889qYhkpWDje2+xhhmWERPP1UhSTdg6bterlI6yUC14WiWCuH8gSIjkd4jzDVrNyTletX5RiEriVVd9w+O/Q9yatr5CUvO8lTkrOnAmrPSl7WfSVN8lY2sayk/8aVOlxYCm27fNs+38SISwhQWbPTQxwBDjDDGxDT8qBZQdZj+3pfDNtPcfwE=)
+  last-modified (1561991140399)
+}

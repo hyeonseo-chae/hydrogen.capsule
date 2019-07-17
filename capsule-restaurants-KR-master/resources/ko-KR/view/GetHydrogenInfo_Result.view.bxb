@@ -1,0 +1,57 @@
+
+result-view {
+
+  match: Hydrogen(this)
+
+  message {
+    if(size(this) == 1){
+       if(this.flag){
+        template (" 10km이내의 수소 충전소가 하나 있네요! 확인해보세요!")
+       }else{
+        template ("해당 수소충전소를 확인해보세요!")
+      }    
+      
+    }else{     
+       if(this.flag){
+         template ("10km이내의 수소 충전소들을 가져와 보았어요!")
+      }else{
+        template ("수소 충전소 정보를 가져와 보았어요!")
+      }    
+    }   
+  }
+
+  render {
+    if(size(this) == 1){
+      layout{
+        layout-macro (HydrogenMap){
+          param(info){
+            expression (this)
+          }
+        }
+         layout-macro (HydrogenCall){
+          param(info){
+            expression (this)
+          }
+        }
+        layout-macro (HydrogenInfo){
+          param(info){
+            expression (this)
+          }
+        }
+        
+      }
+   
+    }else{
+      list-of (this){
+        where-each (item){
+          layout-macro (HydrogenList){
+            param(hydrogen){
+              expression (item)
+            }
+          }
+        }
+      }
+    }
+    
+  }
+}

@@ -1,0 +1,20 @@
+train (t-3krbil0spjntwh8utzhry7ld9) {
+  utterance ("[g:Hydrogen] (근처)[v:Near:Nearby] 충전소 (알려줘)[v:Where:Whereby]")
+  plan (Y2BlEMuoTCnKT0/N00vLzEvR84DyGGRRxd1TS2BSnnlp+QxCqNJ+qYlFDMKoYuEZqUWpDLxlmWV6xak5aXrBQIKBhYGRgYmBGUgzAFkQCAPMQAySYwAA)
+  last-modified (1562137752806)
+}
+train (t-3rywhpnuh9enusizfau4u0u1f) {
+  utterance ("[g:StoreInfo] (서울)[v:geo.LocalityName] 충전소")
+  plan (dY1NCsIwEIVf6//OhSBuPELuoIggiAt7gtBM24E2gTQGuvHsppUgVlzMMO/7Bh5W2FadsqYkLQrWSmTOWLrowozFOaxBYv9HPFuSNq+w8exFSUZkQ75TyUZjF+nxwbX6UvuoDqphza2z0rGnE3tue7+O/mpyWbPrPhV9+S+N5CYbwhIJUkwwxQxzLELGiCTAwBDY+07DhL8X)
+  last-modified (1562137730650)
+}
+train (t-3y79wsgxdxxfjmzb8u1lotv8c) {
+  utterance ("[g:StoreInfo] (경기도)[v:geo.LevelOneDivisionName](에)[v:Addvoca:Addvocaby] 수소 충전소 (어딨어)[v:Where1:Whereby1]")
+  plan (fc5Ra8IwEAfwv606dfqmbAOp36DgR3CIIAwH88Hn0FzbgzaBtAb24mdfWgiuHTMhR+5+dyFY4CX/lkZnpOKUlYzPtTZ0VKnuw8GFFrHqwk5KqxOB6J/+W0XCJDmWXb/kZGiLpWUbZ6Tjc9v1RRlrhTdffb9yITsUedrJkhVXtRE1W9qz5arxV+8fZKn4VHdZe2m+9kejR3oT2Dz27f35Pp5ESZhjgAAhhhhhjCdMMMUMz64OJ80OezKAX80t/JUP3QlcdLM/)
+  last-modified (1562136052464)
+}
+train (t-3z9tv9mqhf9hsme0rwnp7m25i) {
+  utterance ("[g:Hydrogen] (주변)[v:Near:Nearby] 수소 충전소 (어딨어)[v:Where:Whereby]")
+  plan (Y2BlEMuoTCnKT0/N00vLzEvR84DyGGRRxd1TS2BSnnlp+QxCqNJ+qYlFDMKoYuEZqUWpDLxlmWV6xak5aXrBQIKBhYGRgYmBGUgzAFkQCAPMQAySYwAA)
+  last-modified (1561988622760)
+}

@@ -1,0 +1,10 @@
+train (t-q8pdfu1mtaaqlutve78ls8kl6) {
+  utterance ("[g:StoreInfo] (경기도)[v:geo.LevelOneDivisionName] 수소 충전소 (어딨어)[v:Where1:Whereby1]")
+  plan (fc5dC4IwFAbgt+y7LoUKwv6B0E8oIgiioC66ljzqgdpg2qAbf3vOMNHIwdnH+5yNYYJp9PKVDEm4AQvfvSRS0V4Esg67bMoRzh9IY/LULYJd9WtEilawNWs3JOle8q4zhSwF5kW6efLdr5BT0Np/sOA4UV7CmrasOTY+K/xAmu4nUcqiEPO1H3WaNPWwbPZV+Xwdj96DMEYLbVjooIse+hhgiFGWIsuNVPMWPsOs1vdk9qayW28=)
+  last-modified (1561989585993)
+}
+train (t-qrlwciufoflapw0h0dzd2ca3v) {
+  utterance ("[g:Hydrogen] (주변)[v:Near:Nearby] 충전소")
+  plan (Y2BhEMuoTCnKT0/N00vLzEvR84DyGGRRxd1TS2BSnnlp+QxCqNJ+qYlFDLxlmWV6xak5aXrBQIKBmYGRgQlIMgBpEIQAJggGAA==)
+  last-modified (1561983643966)
+}

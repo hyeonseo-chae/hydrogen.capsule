@@ -1,0 +1,39 @@
+
+layout-macro-def (HydrogenInfo1) {
+  params {
+    param (info) {
+      type (StoreInfo)
+      min (Required) max (One)
+    }
+  }
+  content {
+    section{
+      title{
+        template ("수소 충전소 정보")
+      }
+      content{
+        
+        for-each(info.info){ 
+          as (subinfo){
+            
+            cell-area{
+               
+              slot2{
+                content{
+                  primary("[#{value(subinfo.title)}]")
+                  secondary("[#{value(subinfo.content)}]")
+                  
+                }
+                
+              }
+              
+              
+             
+               }
+            }           
+          }
+        }
+      }
+    }
+  }
+

@@ -1,0 +1,5 @@
+train (t-vh81xghkykz8g2raxuipxir4j) {
+  utterance ("[g:StoreInfo] (경상북도)[v:geo.LevelOneDivisionName] 수소 충전소 (어딨어)[v:Where1:Whereby1]")
+  plan (fc5dC4IwFAbgt+y7LoUKwv6B0E8oIgiioC66ljzqgdpg2qAbf3vOMNHIwdnH+5yNYYJp9PKVDEm4AQvfvSRS0V4Esg67bMoRzh9IY/LULYJd9WtEilawNWs3JOle8q4zhSwF5kW6efLdr5BT0Np/sOA4UV7CmrasOTY+K/xAmu4nUcqiEPO1H3WaNPWwbPZV+Xwdj96DMEYLbVjooIse+hhgiFGWIsuNVPMWPsOs1vdk9qayW28=)
+  last-modified (1561989174050)
+}

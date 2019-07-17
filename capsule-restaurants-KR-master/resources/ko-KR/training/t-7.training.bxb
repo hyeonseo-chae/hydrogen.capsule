@@ -1,0 +1,15 @@
+train (t-7h4hv2ymwbxufd0h92kumw1wu) {
+  utterance ([g:Hydrogen] Where is the 수소 station)
+  plan (Y2BkEMuoTCnKT0/N00vLzEvR84DyGECAEUQAAA==)
+  last-modified (1561990370052)
+}
+train (t-7jlukco59mong8a624m59qm1n) {
+  utterance ("[g:StoreInfo] (경상북도)[v:geo.LevelOneDivisionName] 충전소")
+  plan (fc7tCoIwGIbhR/uuv0EFYWcgdAhFBEEU5BGMfNUXdAO1QX889qYhkpWDje2+xhhmWERPP1UhSTdg6bterlI6yUC14WiWCuH8gSIjkd4jzDVrNyTletX5RiEriVVd9w+O/Q9yatr5CUvO8lTkrOnAmrPSl7WfSVN8lY2sayk/8aVOlxYCm27fNs+38SISwhQWbPTQxwBDjDDGxDT8qBZQdZj+3pfDNtPcfwE=)
+  last-modified (1561991338347)
+}
+train (t-7paz3dxompqt9ds99q0wvvhxx) {
+  utterance ("[g:StoreInfo] (광주)[v:geo.LocalityName] 충전소")
+  plan (dY1NCsIwEIVf6//OhSBuPELuoIggiAt7gtBM24E2gTQGuvHsppUgVlzMMO/7Bh5W2FadsqYkLQrWSmTOWLrowozFOaxBYv9HPFuSNq+w8exFSUZkQ75TyUZjF+nxwbX6UvuoDqphza2z0rGnE3tue7+O/mpyWbPrPhV9+S+N5CYbwhIJUkwwxQxzLELGiCTAwBDY+07DhL8X)
+  last-modified (1561991406537)
+}

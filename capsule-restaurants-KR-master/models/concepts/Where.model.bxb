@@ -1,0 +1,6 @@
+enum (Where){
+   features{
+  transient
+  }
+  symbol (Whereby)
+}

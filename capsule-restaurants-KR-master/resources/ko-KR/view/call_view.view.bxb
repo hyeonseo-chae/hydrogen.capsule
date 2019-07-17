@@ -1,0 +1,8 @@
+result-view {
+  match: CALL (this)
+  
+ message()
+  app-launch {
+    payload-uri ("#{value(this)}")
+  }
+}

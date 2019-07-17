@@ -1,0 +1,5 @@
+train (t-gnbclu5t6ytlvlgfe6jxia1me) {
+  utterance ("[g:StoreInfo] (울산)[v:geo.LocalityName] 충전소")
+  plan (dY1NCsIwEIVf6//OhSBuPELuoIggiAt7gtBM24E2gTQGuvHsppUgVlzMMO/7Bh5W2FadsqYkLQrWSmTOWLrowozFOaxBYv9HPFuSNq+w8exFSUZkQ75TyUZjF+nxwbX6UvuoDqphza2z0rGnE3tue7+O/mpyWbPrPhV9+S+N5CYbwhIJUkwwxQxzLELGiCTAwBDY+07DhL8X)
+  last-modified (1561991209083)
+}

@@ -1,0 +1,55 @@
+
+layout-macro-def (HydrogenMap) {
+  params {
+    param (info) {
+      type (Hydrogen)
+      min (Required) max (One)
+    }
+  }
+  content {
+    section{
+      content{
+        map-card{
+          aspect-ratio(16:9)
+          title-area{
+            slot1{
+              text{
+                value("#{value(info.name)}")
+                style(Title_L)
+              }
+            }
+            slot2{
+              single-line{
+                text{
+                  value("#{value(info.location)}")
+                }
+              }
+       
+            }
+            
+          }
+          markers{
+            marker{
+              geo (info.point.point)
+              icon("/img/red-marker.png")
+              width (15)
+              height (20)
+              anchor-x (5)
+              anchor-y (15)
+              rotation (0)
+            }
+          }
+          zoom(15)
+          on-click{
+                intent{
+                  goal: OpenBrowser
+                  value: $expr(info.url)
+                }
+              }
+                 
+        }
+        
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+enum (Addvoca){
+   features{
+  transient
+  }
+  symbol (Addvocaby)
+}

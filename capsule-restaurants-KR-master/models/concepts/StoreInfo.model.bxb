@@ -1,0 +1,42 @@
+structure (StoreInfo) {
+ 
+  
+  property (name) {
+    type (StoreName)
+    min (Optional) max (One)
+  }
+
+  
+  property (location) {
+    type (Location)
+    min (Required) max (One)
+  }
+   property (location1) {
+    type (LocationName)
+    min (Optional) max (One)
+  }
+  
+   property (url) {
+     type (URL)
+    min (Optional) max (One)
+  }
+  property (call) {
+     type (CALL)
+    min (Optional) max (One)
+  }
+  
+  property (point) {
+    type (Point)
+    min (Required) max (One)//없으면 Optional
+  }
+  
+  property (info) {
+    type (Info)
+    min (Required) max (Many)
+  }
+  
+   property (flag) {
+     type (core.Boolean)
+    min (Required) max (One)
+   }
+}

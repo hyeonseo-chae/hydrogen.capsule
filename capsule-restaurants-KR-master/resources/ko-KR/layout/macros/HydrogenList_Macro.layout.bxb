@@ -1,0 +1,20 @@
+layout-macro-def (HydrogenList) {
+  params {
+    param (hydrogen) {
+      type (Hydrogen)
+      min (Required) max (Many)
+    }
+  }
+  content {
+    cell-card {
+      slot2 {
+          content {
+              order (PrimarySecondary)
+              primary ("#{value(hydrogen.name)}")
+              secondary ("[#{value(hydrogen.location)}]")
+            }
+        }
+       
+     }
+  }
+}

@@ -1,0 +1,21 @@
+description {
+  displayName (전국 수소 충전소 알림이)
+  companyName (CAU_SOFT)
+  iconUrl (/img/hydrogen.png)
+  description ("전국 수소 충전소 검색 캡슐입니다. 이 캡슐을 통해 수소 충전소 위치와 다양한 정보를 받아보실 수 있습니다.")
+  privacy-policy-url(https://docs.google.com/document/d/1UF2fmblsT-ZqfKu5DvayUHQvVQb3sM02Tx3bFJn5Sao/edit?usp=sharing)
+  search-keywords{
+    keyword(수소 정보)
+    keyword(수소 충전소)
+    keyword(수소차)
+    keyword(수소 자동차)
+    keyword(수소 충전소 위치)
+    keyword(수소 위치)
+    keyword(넥쏘)
+  }
+
+  dispatch-name (전국 수소 충전소 알림이)
+  dispatch-aliases {
+    alias (전국수소충전소알림이)
+  }
+}

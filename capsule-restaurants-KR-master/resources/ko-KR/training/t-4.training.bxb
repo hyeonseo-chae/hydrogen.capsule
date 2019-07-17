@@ -1,0 +1,10 @@
+train (t-44u9v411mdq77w8am3qbxvwlt) {
+  utterance ([g:Hydrogen] 수소 충전)
+  plan (Y2BkEMuoTCnKT0/N00vLzEvR84DyGECAEUQAAA==)
+  last-modified (1561983720126)
+}
+train (t-4bvvbx4i18atut3klrfw5f4b7) {
+  utterance ("[g:Hydrogen] 수소 주유소 (뭐야)[v:Where:Whereby]")
+  plan (Y2BhEMuoTCnKT0/N00vLzEvR84DyGGRRxd1TS2BSnnlp+QzCqNLhGalFqQy8ZZllesWpOWl6wUCCgZmBkYEJSDIAaRCEACYIBgA=)
+  last-modified (1561990270701)
+}

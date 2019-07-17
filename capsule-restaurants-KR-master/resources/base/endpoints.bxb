@@ -1,0 +1,12 @@
+endpoints {  
+  action-endpoints {
+    action-endpoint (GetHydrogenInfo) {
+      accepted-inputs (near, point, self, location, where, addvoca)
+      local-endpoint (GetHydrogenInfo.js)
+    }
+    action-endpoint (FindStore) {
+      accepted-inputs (location1, place, where1, near, point, self, addvoca)
+      local-endpoint (FindStore.js)
+    }
+  }
+}

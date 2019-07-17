@@ -1,0 +1,45 @@
+structure (Hydrogen) {
+  description (수소 충전소 정보를 담는 structure입니다)
+//   property (username) {
+//     type (UserName)
+//     min (Optional) max (One)
+//   }
+  
+  property (name) {//fee나 메인으로 노출할떄 수정하기
+    type (HydrogenName)
+    min (Required) max (One)
+  }
+  
+  property (location) {
+    type (Location)
+    min (Required) max (One)
+  }
+  // property (location1) {
+  //   type (LocationName)
+  //   min (Required) max (One)
+  // }
+  
+   property (url) {
+     type (URL)
+    min (Optional) max (One)
+  }
+  property (call) {
+     type (CALL)
+    min (Optional) max (One)
+  }
+  
+  property (point) {
+    type (Point)
+    min (Required) max (One)//없으면 Optional
+  }
+  
+  property (info) {
+    type (Info)
+    min (Required) max (Many)
+  }
+  
+   property (flag) {
+     type (core.Boolean)
+    min (Required) max (One)
+   }
+}
