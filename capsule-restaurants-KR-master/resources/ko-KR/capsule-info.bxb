@@ -14,8 +14,12 @@ description {
     keyword(넥쏘)
   }
 
-  dispatch-name (전국 수소 충전소 알림이)
+  dispatch-name (하이드로)//이름이 너무 길다는 의견이 있어서 수정
   dispatch-aliases {
-    alias (전국수소충전소알림이)
+    alias (전국 수소 충전소 알림이)
+    alias (하이드로젠)
+    alias (수소 충전)
+    alias (수소 충전소)
+    alias (수소 충전소 알림이)
   }
 }
