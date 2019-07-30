@@ -1,6 +1,6 @@
 capsule {
   id (hydrogen.find)
-  version (1.1.10)
+  version (1.1.11)
   format (3)
   targets {
     target (bixby-mobile-ko-KR)// Korean(South Korea)
@@ -11,7 +11,6 @@ capsule {
     section (TravelAndTransportation)
     section (Local)
     section (Shopping)
-    section (Productivity)
   }
   
   runtime-flags{
