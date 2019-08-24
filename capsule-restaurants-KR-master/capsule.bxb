@@ -1,6 +1,6 @@
 capsule {
   id (hydrogen.find)
-  version (1.1.11)
+  version (1.1.12)
   format (3)
   targets {
     target (bixby-mobile-ko-KR)// Korean(South Korea)
@@ -24,10 +24,10 @@ capsule {
   }
   
   capsule-imports {
-    import (viv.entity) { version(3.18.11) as (entity) }
+    import (viv.entity) { version(3.19.8) as (entity) }
     import (viv.core){ as (core) version-from (entity)}
     import (viv.common) { as (common) version-from (entity) }
-    import (viv.geo) { as (geo) version-from (entity) }
-    import (viv.self) { version(3.5.41) as (self) }
+    import (viv.geo) { version (9.18.15) as (geo) }
+    import (viv.self) { version(3.5.122) as (self) }
   }
 }
