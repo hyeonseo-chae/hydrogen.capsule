@@ -1,5 +1,35 @@
+train (t-r9j4j3ublk8j85q7k6urdc5i9) {
+  utterance ("[g:StoreInfo] (충북)[v:geo.LevelOneDivisionName](에)[v:Addvoca:Addvocaby] 수소 충전소 (어딨어)[v:Where1:Whereby1]")
+  plan (fc5Ra8IwEAfwv606dfqmbAOp36DgR3CIIAwH88Hn0FzbgzaBtAb24mdfWgiuHTMhR+5+dyFY4CX/lkZnpOKUlYzPtTZ0VKnuw8GFFrHqwk5KqxOB6J/+W0XCJDmWXb/kZGiLpWUbZ6Tjc9v1RRlrhTdffb9yITsUedrJkhVXtRE1W9qz5arxV+8fZKn4VHdZe2m+9kejR3oT2Dz27f35Pp5ESZhjgAAhhhhhjCdMMMUMz64OJ80OezKAX80t/JUP3QlcdLM/)
+  last-modified (1567266095793)
+}
+train (t-re7cu82rbjgu9qbkp8sn4p96o) {
+  utterance ("[g:StoreInfo] (북구)[v:geo.SubLocalityOneName] 수소 충전소")
+  plan (dY5NCsIwEEa/+u9eFF30CLmDIoIgCvYEsUnbgTaBNA1049mNkQotdDHDfO8Nw2CNXdEKo3OpWEZKsMRqI68q00Nx8S1IxCPiXUtu0gIbR47lUrMk5KfMSSvsO3pqqBQ9FXfqKCpSVFvDLTl5Jkf112//B5vXTae8JNs+lMSh4+GFEdfnd15JrBBhgilmmGOBpc8YkAgIDJ795okvv/cB)
+  last-modified (1567267037360)
+}
+train (t-reh59pdl7jpn25utr6uf98hgk) {
+  utterance ("[g:StoreInfo] (을주군)[v:geo.SubLocalityOneName] 수소 충전소")
+  plan (dY5NCsIwEEa/+u9eFF30CLmDIoIgCvYEsUnbgTaBNA1049mNkQotdDHDfO8Nw2CNXdEKo3OpWEZKsMRqI68q00Nx8S1IxCPiXUtu0gIbR47lUrMk5KfMSSvsO3pqqBQ9FXfqKCpSVFvDLTl5Jkf112//B5vXTae8JNs+lMSh4+GFEdfnd15JrBBhgilmmGOBpc8YkAgIDJ795okvv/cB)
+  last-modified (1567266968153)
+}
+train (t-rmpwhp4yh5i67i4krkjdxm4t6) {
+  utterance ("[g:StoreInfo] (충북)[v:geo.LevelOneDivisionName] 충전소")
+  plan (fc7tCoIwGIbhR/uuv0EFYWcgdAhFBEEU5BGMfNUXdAO1QX889qYhkpWDje2+xhhmWERPP1UhSTdg6bterlI6yUC14WiWCuH8gSIjkd4jzDVrNyTletX5RiEriVVd9w+O/Q9yatr5CUvO8lTkrOnAmrPSl7WfSVN8lY2sayk/8aVOlxYCm27fNs+38SISwhQWbPTQxwBDjDDGxDT8qBZQdZj+3pfDNtPcfwE=)
+  last-modified (1567266121629)
+}
 train (t-rof3lmksh06wjgldk5xoskukk) {
   utterance ("[g:StoreInfo] (광주)[v:geo.LocalityName] 수소 충전소 (어딨어)[v:Where1:Whereby1]")
   plan (dY7PCoJAEId/Zv9PHYTo4iMs9AhFBEF0yENnyVEHdBdWE7z07O1ai1g0MDPM9w3MYIl13iZaZSRFyjIRUa00nWSqvsXRlE4i/COeFcX6niMY+ltOmrYIGm5ERkpE3daVMlYSG0f3Dy6SgQqd2iUlS65qHdfc0IEbrqxfOX9W97jguu1P2Jd+qSOXuCQs4GEEH2NMMMUMc0NgmKU98/AO2/3P5Hdptl8=)
   last-modified (1561989806724)
+}
+train (t-rqqep0bk70v3nfg24g0p26n3w) {
+  utterance ("[g:StoreInfo] (서초구)[v:geo.SubLocalityOneName] 수소 충전소 (찾아줘)[v:Where1:Whereby1]")
+  plan (dY7bCoJAEIZ/s/O1FHXhIyz0CEUEQRTkRdemow7oLqwH8KZnb7UsDBqYGeb7hmEwxzKpQ61ikiJiGQqvUJqOMlK/4mBKK+H+EY+cfB0kcPr+lpCmDZyKKxGTEl67daWYlcSqo7uS07Cn3E5tw4wl54X2C65ozxXnjV98Dpb3kwr8lIv6IgnrjreP/XF9fvYzwgwWBrAxxAhjTDA1BIY19MssvKLp9nuy2zTbTw==)
+  last-modified (1567266643921)
+}
+train (t-rv5im3pel0586b2w4rvvq3mhw) {
+  utterance ("[g:StoreInfo] (광산구)[v:geo.SubLocalityOneName] 수소 충전소 (찾아줘)[v:Where1:Whereby1]")
+  plan (dY7bCoJAEIZ/s/O1FHXhIyz0CEUEQRTkRdemow7oLqwH8KZnb7UsDBqYGeb7hmEwxzKpQ61ikiJiGQqvUJqOMlK/4mBKK+H+EY+cfB0kcPr+lpCmDZyKKxGTEl67daWYlcSqo7uS07Cn3E5tw4wl54X2C65ozxXnjV98Dpb3kwr8lIv6IgnrjreP/XF9fvYzwgwWBrAxxAhjTDA1BIY19MssvKLp9nuy2zTbTw==)
+  last-modified (1567266794613)
 }

@@ -1,3 +1,8 @@
+train (t-f4tc4defqsa4woccfguwf3o8j) {
+  utterance ("[g:StoreInfo] (서초구)[v:geo.SubLocalityOneName](에)[v:Addvoca:Addvocaby] 수소 충전소 (어딨어)[v:Where1:Whereby1]")
+  plan (dY7LCsIwEEVvbX1vfaALP6HgJ1REEERBF65rM7YDbQJpG3Djt5sWK1YwIUPmnJlhMMY8eQitYpL+naXwL4XStJd39St2NtQS07YIhDAqCrH6U//MKdRRgknbXxPStMbEsPFjUv6lrjpTzEpi0dBNyaloqVWjApGx5LzQYcGGtmw4r/zsM7C8HexeKRePkyQsG14v9se1+THMCCM46MCFhy566GOAoWWwtLruF3XQnOrnvnPPvo6NtucF)
+  last-modified (1567265886561)
+}
 train (t-fjnd6bbkr5lb1s5u8mrs44dfr) {
   utterance ("[g:StoreInfo] (울산)[v:geo.LocalityName] 수소 충전소 (어딨어)[v:Where1:Whereby1]")
   plan (dY7PCoJAEId/Zv9PHYTo4iMs9AhFBEF0yENnyVEHdBdWE7z07O1ai1g0MDPM9w3MYIl13iZaZSRFyjIRUa00nWSqvsXRlE4i/COeFcX6niMY+ltOmrYIGm5ERkpE3daVMlYSG0f3Dy6SgQqd2iUlS65qHdfc0IEbrqxfOX9W97jguu1P2Jd+qSOXuCQs4GEEH2NMMMUMc0NgmKU98/AO2/3P5Hdptl8=)

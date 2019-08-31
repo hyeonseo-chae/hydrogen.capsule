@@ -1,5 +1,15 @@
+train (t-ja2u23utuyjrx3dj1dobrs1as) {
+  utterance ("[g:StoreInfo] (성주군)[v:geo.SubLocalityOneName] 수소 충전소")
+  plan (dY5NCsIwEEa/+u9eFF30CLmDIoIgCvYEsUnbgTaBNA1049mNkQotdDHDfO8Nw2CNXdEKo3OpWEZKsMRqI68q00Nx8S1IxCPiXUtu0gIbR47lUrMk5KfMSSvsO3pqqBQ9FXfqKCpSVFvDLTl5Jkf112//B5vXTae8JNs+lMSh4+GFEdfnd15JrBBhgilmmGOBpc8YkAgIDJ795okvv/cB)
+  last-modified (1567267222988)
+}
 train (t-jc6hlkkwjmtqckjgu96yvju1v) {
   utterance ("[g:Hydrogen] Where is the hydrogen station (nearby)[v:Near:Nearby]")
   plan (Y2BhEMuoTM3PK07N10vLzEvR86hMKcpPT81jkEUVd08tgUl55qXlMwihSvulJhYx8JZllukVp+ak6QUDCQZmBkYGJiDJAKRBEAKYIBgA)
   last-modified (1561364292440)
+}
+train (t-jd4x03mxcbhy8gqlemqguza6d) {
+  utterance ("[g:StoreInfo] (마포구)[v:geo.SubLocalityOneName] 수소 충전소 (찾아줘)[v:Where1:Whereby1]")
+  plan (dY7bCoJAEIZ/s/O1FHXhIyz0CEUEQRTkRdemow7oLqwH8KZnb7UsDBqYGeb7hmEwxzKpQ61ikiJiGQqvUJqOMlK/4mBKK+H+EY+cfB0kcPr+lpCmDZyKKxGTEl67daWYlcSqo7uS07Cn3E5tw4wl54X2C65ozxXnjV98Dpb3kwr8lIv6IgnrjreP/XF9fvYzwgwWBrAxxAhjTDA1BIY19MssvKLp9nuy2zTbTw==)
+  last-modified (1567266676332)
 }

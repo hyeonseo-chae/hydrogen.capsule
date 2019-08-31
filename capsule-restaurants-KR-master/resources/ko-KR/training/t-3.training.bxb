@@ -3,6 +3,11 @@ train (t-3krbil0spjntwh8utzhry7ld9) {
   plan (Y2BlEMuoTCnKT0/N00vLzEvR84DyGGRRxd1TS2BSnnlp+QxCqNJ+qYlFDMKoYuEZqUWpDLxlmWV6xak5aXrBQIKBhYGRgYmBGUgzAFkQCAPMQAySYwAA)
   last-modified (1562137752806)
 }
+train (t-3lo6de2eb7o9zeoteq7a7wcnf) {
+  utterance ("[g:StoreInfo] (장성군)[v:geo.SubLocalityOneName] 수소 충전소")
+  plan (dY5NCsIwEEa/+u9eFF30CLmDIoIgCvYEsUnbgTaBNA1049mNkQotdDHDfO8Nw2CNXdEKo3OpWEZKsMRqI68q00Nx8S1IxCPiXUtu0gIbR47lUrMk5KfMSSvsO3pqqBQ9FXfqKCpSVFvDLTl5Jkf112//B5vXTae8JNs+lMSh4+GFEdfnd15JrBBhgilmmGOBpc8YkAgIDJ795okvv/cB)
+  last-modified (1567266837078)
+}
 train (t-3rywhpnuh9enusizfau4u0u1f) {
   utterance ("[g:StoreInfo] (서울)[v:geo.LocalityName] 충전소")
   plan (dY1NCsIwEIVf6//OhSBuPELuoIggiAt7gtBM24E2gTQGuvHsppUgVlzMMO/7Bh5W2FadsqYkLQrWSmTOWLrowozFOaxBYv9HPFuSNq+w8exFSUZkQ75TyUZjF+nxwbX6UvuoDqphza2z0rGnE3tue7+O/mpyWbPrPhV9+S+N5CYbwhIJUkwwxQxzLELGiCTAwBDY+07DhL8X)

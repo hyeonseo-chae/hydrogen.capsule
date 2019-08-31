@@ -1,3 +1,8 @@
+train (t-ge8hgk05krs0ahaymlvgr43dy) {
+  utterance ("[g:hydrogen.find.StoreInfo] (남구)[v:viv.geo.SubLocalityOneName] 수소 충전소")
+  plan (dY5NCsIwEEa/+u9eFF30CLmDIoIgCvYEsUnbgTaBNA1049mNkQotdDHDfO8Nw2CNXdEKo3OpWEZKsMRqI68q00Nx8S1IxCPiXUtu0gIbR47lUrMk5KfMSSvsO3pqqBQ9FXfqKCpSVFvDLTl5Jkf112//B5vXTae8JNs+lMSh4+GFEdfnd15JrBBhgilmmGOBpc8YkAgIDJ795okvv/cB)
+  last-modified (1567267008540)
+}
 train (t-gnbclu5t6ytlvlgfe6jxia1me) {
   utterance ("[g:StoreInfo] (울산)[v:geo.LocalityName] 충전소")
   plan (dY1NCsIwEIVf6//OhSBuPELuoIggiAt7gtBM24E2gTQGuvHsppUgVlzMMO/7Bh5W2FadsqYkLQrWSmTOWLrowozFOaxBYv9HPFuSNq+w8exFSUZkQ75TyUZjF+nxwbX6UvuoDqphza2z0rGnE3tue7+O/mpyWbPrPhV9+S+N5CYbwhIJUkwwxQxzLELGiCTAwBDY+07DhL8X)

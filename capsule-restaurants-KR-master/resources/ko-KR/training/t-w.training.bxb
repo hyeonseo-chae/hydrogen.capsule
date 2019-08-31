@@ -3,3 +3,8 @@ train (t-wj3v60mnmmwsrmokryggbvx7c) {
   plan (Y2BhEMuoTCnKT0/N00vLzEvR84DyGGRRxd1TS2BSnnlp+QxCqNJ+qYlFDLxlmWV6xak5aXrBQIKBmYGRgQlIMgBpEIQAJggGAA==)
   last-modified (1561988598248)
 }
+train (t-wr406e6jk6tduk1nzlbulpayy) {
+  utterance ("[g:StoreInfo] (충청북도)[v:geo.LevelOneDivisionName](에)[v:Addvoca:Addvocaby] 수소 충전소 (어딨어)[v:Where1:Whereby1]")
+  plan (fc5Ra8IwEAfwv606dfqmbAOp36DgR3CIIAwH88Hn0FzbgzaBtAb24mdfWgiuHTMhR+5+dyFY4CX/lkZnpOKUlYzPtTZ0VKnuw8GFFrHqwk5KqxOB6J/+W0XCJDmWXb/kZGiLpWUbZ6Tjc9v1RRlrhTdffb9yITsUedrJkhVXtRE1W9qz5arxV+8fZKn4VHdZe2m+9kejR3oT2Dz27f35Pp5ESZhjgAAhhhhhjCdMMMUMz64OJ80OezKAX80t/JUP3QlcdLM/)
+  last-modified (1567266086409)
+}

@@ -18,24 +18,24 @@ module.exports = [
     },
     info: [
       {
+        title: '공지사항',
+        content: '9월 11일부터는 수소 충전소로 전화해 일정 확인 바랍니다.'
+      },
+      {
+        content: '국회 충전소 오픈 후 업그레이드 공사 예정'
+      },
+      {
         title: '가격',
-        content: '무료'
+        content: '한시적 350bar 무료'
       },
       {
         title: '운영시간',
-        content: '월, 화, 금 | 09:30 ~ 21:00'
+        content: '월 ~ 금 | 09:30 ~ 17:00'
         
       },
       {
-         
-         content: '수, 목 | 09:30 ~ 17:00'
-      },
-      {  
-         content: '토, 일, 공휴일 | 08:00 ~ 21:00'
-      },
-      {
          title:'식사 시간',
-         content: '12:00 ~ 13:00, 17:00 ~ 18:00'
+         content: '12:00 ~ 13:00'
       },
       {
         title: '전화번호',
@@ -75,16 +75,24 @@ module.exports = [
     },
     info: [
       {
+        title: '공지사항',
+        content: '충전소 업그레이드로 인해 9월 30일까지 운영합니다.'
+      },
+      {
         title: '가격',
-        content: '무료'
+        content: '한시적 350 bar 무료'
+      },
+      {
+       
+        content: '2019년 12월 1일부터 700bar 유료 충전 시작'
       },
       {
         title: '운영시간',
-        content: '월~금 | 09:00 ~ 17:00 (단, 공휴일,일요일 휴무)'
+        content: '월~금 | 09:00 ~ 18:00 (단, 공휴일,일요일 휴무)'
       },
       {
         title:'식사시간',
-        content: '11:40 ~ 12:10'
+        content: '11:30 ~ 12:30'
       },
       {
         title: '전화번호',
@@ -136,7 +144,7 @@ module.exports = [
         content: '월~금 | 08:30 ~ 18:30'
       },
       {
-        content: '토요일 | 09:00 ~ 17:00 (일요일, 공휴일 휴무)'
+        content: '토요일, 공휴일 | 09:00 ~ 17:00 (일요일)'
       },
       {
         title:'식사시간',
@@ -304,9 +312,6 @@ module.exports = [
         content: '연중무휴 | 08:00 ~ 22:00'
       },
       {
-        content: '매월 첫째주 토요일 | 9:00 ~ 12:00(공휴일,일요일 휴무)'
-      },
-      {
         title: '전화번호',
         content: '061-393-0257'
       },
@@ -450,7 +455,7 @@ module.exports = [
       },
       {
         title: '운영시간',
-        content: '연중무휴 | 06:00 ~ 19:00'
+        content: '연중무휴 | 06:00 ~ 20:00'
       },
       
       {
@@ -846,7 +851,16 @@ module.exports = [
       },
       {
         title: '운영시간',
-        content: '월~금 | 09:00 ~ 18:00 (단, 공휴일,일요일 휴무)'
+        content: '월 | 09:00 ~ 20:00'
+      },
+      {
+        content: '화 ~ 금 | 09:00 ~ 18:00'
+      },
+      {
+        content: '토(매월 첫째주 1번) | 09:00 ~ 12:00'
+      },
+      {
+        content: '일요일, 공휴일 휴무'
       },
       {
         title: '식사시간',
@@ -900,8 +914,13 @@ module.exports = [
         title: '운영시간',
         content: '연중무휴 | 09:00 ~ 21:00'
       },
+      
       {
         content: '버스충전 | 05:00 ~ 09:00, 21:00 ~ 23:00'
+      },
+      {
+        title: '점심시간',
+        content: '12:00 ~ 13:00'
       },
       {
         title: '전화번호',
@@ -949,7 +968,7 @@ module.exports = [
       },
       {
         title: '운영시간',
-        content: '월~금 | 6:00~22:00, 토 | 9:00~18:00(단,공휴일,일요일 휴무)'
+        content: '월~금 | 06:00~22:00, 토 | 9:00~18:00(단,공휴일,일요일 휴무)'
       },
       {
         title:'식사시간',
@@ -1028,7 +1047,7 @@ module.exports = [
       levelTwoDiv: "영등포구",
       place: "의사당대로 1(국회2문)"
   },
-    name: "국회의사당 충전소 (2019년 8월 말 오픈예정)",
+    name: "국회의사당 충전소",
     url : "http://kko.to/zv-M-da0B",
     flag : false,
     //call : "",
@@ -1040,12 +1059,20 @@ module.exports = [
     },
     info: [
       {
+        title: '안내',
+        content: '9월 10일부터 충전 가능합니다.'
+      },
+      {
         title: '가격',
-        content: '오픈 후 업데이트를 통해 제공 예정'
+        content: '8800(원/kg)VAT포함'
+      },
+      {
+        title: '넥쏘 기준 완충 가격',
+        content: '약 55,704원(6.33kg)'
       },
       {
         title: '운영시간',
-        content: '2019년 8월 말 오픈예정'
+        content: '08:00 ~ 22:00 (연중무휴)'
       },
       {
         title: '전화번호',
@@ -1085,7 +1112,7 @@ module.exports = [
     info: [
       {
         title: '가격',
-        content: '8800(원/kg)VAT포함, 카드 가능'
+        content: '8800(원/kg)VAT포함'
       },
       {
         title: '넥쏘 기준 완충 가격',
@@ -1151,6 +1178,106 @@ module.exports = [
       //   title: '전화번호',
       //   content: '055-593-9341'
       // },
+      // {
+      //   title: '운영방식',
+      //   content: '부생수소'
+      // },
+      // {
+      //   title: '구분',
+      //   content: '환경부'
+      // },
+      // {
+      //   title: '운영기관',
+      //   content: '창원시'
+      // }
+    ] 
+  },
+  {
+    location: "충청북도 충주시 대소원면 기업도시1로 47",
+    location1:{
+      levelOneDiv: "충청북도",
+      levelTwoDiv: "충주시",
+      place: "대소원면 기업도시1로 47"
+  },
+    name: "충주모비스충전소",
+    url : "http://kko.to/0BzKbXg0H",
+    flag : false,
+    //call : "tel:055-593-9341",
+    point:{
+      point:{
+        latitude: 36.9973337,
+        longitude: 127.8283507
+      }
+    },
+    info: [
+      {
+        title: '공지사항',
+        content: '충주 시민만 하루전 예약 충전 가능'
+      },
+      {
+        title: '가격',
+        content: '2019년 12월 까지 무료'
+      },
+      {
+        title: '운영시간',
+        content: '08:00 ~ 17:00 (연중무휴)'
+      },
+      {
+      title : '점심시간',
+        content: '12:00 ~ 13:00'
+      }
+      // {
+      //   title: '전화번호',
+      //   content: '055-593-9341'
+      // },
+      // {
+      //   title: '운영방식',
+      //   content: '부생수소'
+      // },
+      // {
+      //   title: '구분',
+      //   content: '환경부'
+      // },
+      // {
+      //   title: '운영기관',
+      //   content: '창원시'
+      // }
+    ] 
+  },
+  {
+    location: "부산광역시 사상구 학감대로 167",
+    location1:{
+      levelOneDiv: "부산광역시",
+      levelTwoDiv: "사상구",
+      place: "학감대로 167"
+  },
+    name: "H부산대도수소충전소",
+    url : "http://kko.to/Rh34RdP0p",
+    flag : false,
+    call : "tel:051-317-2777",
+    point:{
+      point:{
+        latitude: 35.1459284,
+        longitude: 128.985671
+      }
+    },
+    info: [
+      {
+        title: '가격',
+        content: '8800(원/kg)VAT포함'
+      },
+      {
+        title: '넥쏘 기준 완충 가격',
+        content: '약 55,704원(6.33kg)'
+      },
+      {
+        title: '운영시간',
+        content: '08:00 ~ 22:00 (연중무휴)'
+      },
+      {
+        title: '전화번호',
+        content: '051-317-2777'
+      },
       // {
       //   title: '운영방식',
       //   content: '부생수소'
