@@ -1,12 +1,12 @@
-  hints{
-    uncategorized{
-      utterance(수소 충전소 알려줘)
-      utterance(서울 수소 충전소 어딨어)
-      utterance(서울 충전소)
-      utterance(주변 수소 충전소 찾아줘)
-      utterance(주변 수소 충전소 알려줘)
-      utterance(수소 충전소 어디 있어)
-      utterance(주변 수소 충전소 어디 있어)
-      utterance(수소 충전소 어딨어)
-    }
-  }
+  // hints{
+  //   uncategorized{
+  //     utterance(수소 충전소 알려줘)
+  //     utterance(서울 수소 충전소 어딨어)
+  //     utterance(서울 충전소)
+  //     utterance(주변 수소 충전소 찾아줘)
+  //     utterance(주변 수소 충전소 알려줘)
+  //     utterance(수소 충전소 어디 있어)
+  //     utterance(주변 수소 충전소 어디 있어)
+  //     utterance(수소 충전소 어딨어)
+  //   }
+  // }
