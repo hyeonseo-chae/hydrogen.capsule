@@ -17,20 +17,14 @@ module.exports = [
       }
     },
     info: [
-      {
-        title: '공지사항',
-        content: '9월 11일부터는 수소 충전소로 전화해 일정 확인 바랍니다.'
-      },
-      {
-        content: '국회 충전소 오픈 후 업그레이드 공사 예정'
-      },
+      
       {
         title: '가격',
         content: '한시적 350bar 무료'
       },
       {
         title: '운영시간',
-        content: '월 ~ 금 | 09:30 ~ 17:00'
+        content: '금 ~ 화 | 08:00 ~ 17:00'
         
       },
       {
@@ -75,20 +69,17 @@ module.exports = [
     },
     info: [
       {
-        title: '공지사항',
-        content: '충전소 업그레이드로 인해 9월 30일까지 운영합니다.'
+        title: '공지사항(공사중)',
+        content: '충전소 업그레이드로 인해 2020년 1월에 재오픈 예정'
       },
       {
         title: '가격',
-        content: '한시적 350 bar 무료'
+        content: '공사중'
       },
-      {
-       
-        content: '2019년 12월 1일부터 700bar 유료 충전 시작'
-      },
+      
       {
         title: '운영시간',
-        content: '월~금 | 09:00 ~ 18:00 (단, 공휴일,일요일 휴무)'
+        content: '공사중'
       },
       {
         title:'식사시간',
@@ -144,7 +135,7 @@ module.exports = [
         content: '월~금 | 08:30 ~ 18:30'
       },
       {
-        content: '토요일, 공휴일 | 09:00 ~ 17:00 (일요일)'
+        content: '토요일, 공휴일 | 09:00 ~ 17:00 (일요일 휴무)'
       },
       {
         title:'식사시간',
@@ -178,7 +169,7 @@ module.exports = [
     name: "진곡 수소충전소(진곡수소융합스테이션)",
     url : "http://kko.to/TlxssaYjM",
     flag : false,
-    call : "tel:062-960-9570",
+    call : "tel:062-960-9580",
     point:{
       point:{
         latitude: 35.194463,
@@ -210,7 +201,7 @@ module.exports = [
       },
       {
         title: '전화번호',
-        content: '062-960-9570'
+        content: '062-960-9580'
       },
       {
         title: '운영방식',
@@ -339,7 +330,7 @@ module.exports = [
     name: "학하 수소충전소",
     url : "http://kko.to/39MsltD0H",
     flag : false,
-    call : "tel:070-5057-6047",
+    call : "tel:042-716-7362",
     point:{
       point:{
         latitude: 36.335895,
@@ -357,12 +348,15 @@ module.exports = [
       },
       {
         title: '운영시간',
-        content: '09:00 ~ 18:00 (월,일, 공휴일 휴무)'
+        content: '09:00 ~ 19:00 (월,일, 공휴일 휴무)'
       },
-    
+    {
+        
+        content: '09:00 ~ 18:00 (토요일)'
+      },
       {
         title: '전화번호',
-        content: '070-5057-6047'
+        content: '042-716-7362'
       },
       {
         title: '운영방식',
@@ -968,7 +962,7 @@ module.exports = [
       },
       {
         title: '운영시간',
-        content: '월~금 | 06:00~22:00, 토 | 9:00~18:00(단,공휴일,일요일 휴무)'
+        content: '월~금 | 06:00~22:00, 토 | 09:00~18:00(단,공휴일,일요일 휴무)'
       },
       {
         title:'식사시간',
@@ -1016,7 +1010,7 @@ module.exports = [
       },
       {
         title: '넥쏘 기준 완충 가격',
-        content: '약  55,704원(6.33kg)'
+        content: '약 55,704원(6.33kg)'
       },
       {
         title: '운영시간',
@@ -1050,7 +1044,7 @@ module.exports = [
     name: "국회의사당 충전소",
     url : "http://kko.to/zv-M-da0B",
     flag : false,
-    //call : "",
+    call : "tel:070-8882-7742",
     point:{
       point:{
         latitude: 37.5291257,
@@ -1058,10 +1052,7 @@ module.exports = [
       }
     },
     info: [
-      {
-        title: '안내',
-        content: '9월 10일부터 충전 가능합니다.'
-      },
+      
       {
         title: '가격',
         content: '8800(원/kg)VAT포함'
@@ -1076,7 +1067,7 @@ module.exports = [
       },
       {
         title: '전화번호',
-        content: '오픈 후 업데이트를 통해 제공 예정'
+        content: '070-8882-7742'
       }
       // {
       //   title: '운영방식',
@@ -1099,7 +1090,7 @@ module.exports = [
       levelTwoDiv: "하남시",
       place: "중부고속도로 117-1"
   },
-    name: "하남드림휴게소 충전소(양방향) (2019년 8월 말 오픈예정)",
+    name: "하남드림휴게소 충전소(양방향)",
     url : "http://kko.to/ND9S-dajM",
     flag : false,
     call : "031-793-5800",
@@ -1120,7 +1111,7 @@ module.exports = [
       },
       {
         title: '운영시간',
-        content: '2019년 8월 말 오픈예정'
+        content: '연중무휴 | 08:00 ~ 22:00'
       },
       {
         title: '전화번호',
@@ -1147,7 +1138,7 @@ module.exports = [
       levelTwoDiv: "함안군",
       place: "군북면 현포로 205"
   },
-    name: "함안 휴게소(부산방향) (7월말 오픈 예정)",
+    name: "함안 휴게소(부산방향)",
     url : "http://kko.to/EdzYYAt0p",
     flag : false,
     call : "tel:055-593-9341",
@@ -1168,7 +1159,7 @@ module.exports = [
       },
       {
         title: '운영시간',
-        content: '7월말 오픈 예정'
+        content: '연중무휴 | 08:00 ~22:00'
       }
       // },
       // {
@@ -1220,7 +1211,7 @@ module.exports = [
       },
       {
         title: '운영시간',
-        content: '08:00 ~ 17:00 (연중무휴)'
+        content: '연중무휴 | 08:00 ~ 17:00'
       },
       {
       title : '점심시간',
@@ -1277,6 +1268,54 @@ module.exports = [
       {
         title: '전화번호',
         content: '051-317-2777'
+      },
+      // {
+      //   title: '운영방식',
+      //   content: '부생수소'
+      // },
+      // {
+      //   title: '구분',
+      //   content: '환경부'
+      // },
+      // {
+      //   title: '운영기관',
+      //   content: '창원시'
+      // }
+    ] 
+  },
+  {
+    location: "인천광역시 남동구 청능대로 468번길 1",
+    location1:{
+      levelOneDiv: "인천광역시",
+      levelTwoDiv: "남동구",
+      place: "청능대로 468번길 1"
+  },
+    name: "인천H수소충전소",
+    url : "http://kko.to/_pDjNU8jp",
+    flag : false,
+    call : "tel:032-446-9094",
+    point:{
+      point:{
+        latitude: 37.3985234,
+        longitude: 126.7094884
+      }
+    },
+    info: [
+      {
+        title: '가격',
+        content: '8800(원/kg)VAT포함'
+      },
+      {
+        title: '넥쏘 기준 완충 가격',
+        content: '약 55,704원(6.33kg)'
+      },
+      {
+        title: '운영시간',
+        content: '08:00 ~ 22:00 (연중무휴)'
+      },
+      {
+        title: '전화번호',
+        content: '032-446-9094'
       },
       // {
       //   title: '운영방식',

@@ -1,12 +1,14 @@
-  // hints{
-  //   uncategorized{
-  //     utterance(수소 충전소 알려줘)
-  //     utterance(서울 수소 충전소 어딨어)
-  //     utterance(서울 충전소)
-  //     utterance(주변 수소 충전소 찾아줘)
-  //     utterance(주변 수소 충전소 알려줘)
-  //     utterance(수소 충전소 어디 있어)
-  //     utterance(주변 수소 충전소 어디 있어)
-  //     utterance(수소 충전소 어딨어)
-  //   }
-  // }
+  hints{
+    uncategorized{
+      hint(하이드로에서 수소 충전소 알려줘)
+      hint(하이드로에서 서울 수소 충전소 알려줘)
+      hint(하이드로에서 부산 수소 충전소 알려줘)
+      hint(하이드로에서 가까운 수소 충전소 알려줘)
+      hint(하이드로에서 근처 수소 충전소 알려줘)
+      hint(하이드로에서 서초구 수소 충전소 알려줘)
+      hint(하이드로에서 근처 수소 충전소 어딨어)
+      hint(하이드로에서 서울에 수소 충전소 어딨어)
+      hint(하이드로에서 부산에서 수소 충전소 찾아줘)
+      hint(하이드로에서 서초구 충전소 알려줘)
+    }
+  }

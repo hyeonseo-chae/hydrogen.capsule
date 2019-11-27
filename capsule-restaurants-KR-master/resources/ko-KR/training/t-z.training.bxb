@@ -18,3 +18,8 @@ train (t-zjd0mzkrtltx2m0rdw81gc749) {
   plan (Y2BkEMuoTM3PK07N10vLzEvR86hMKcpPT81jAAFGEAEA)
   last-modified (1561302227176)
 }
+train (t-zp74ls16lop3zn35zajc5bumg) {
+  utterance ("[g:StoreInfo] (인천)[v:viv.geo.LocalityName](에)[v:Addvoca:Addvocaby] 수소 충전소 (어딨어)[v:Where1:Whereby1]")
+  plan (dY7PCsIwDId/Ov978aCIlz3CwEeYiCCIBz14LjZuga2Frha8+Ox2YtEptjQ035eQYIx5fpNGZ6SSCyuZHK02tFUX/S02PjwlZk2RSun0WSD+U3+vSJhzjmnTn3IytMTUsUsy0snxWXWgjLXCItDVlQvZUHFQqSxZcWWNsOxozY6r2k+C3/mlCra394h6pV8ayF6UhBFaaCNCB1300McAQ8/gaX2jD9pCOPUveuUd/9o++p4H)
+  last-modified (1574839823913)
+}

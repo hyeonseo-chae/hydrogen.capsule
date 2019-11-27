@@ -13,6 +13,11 @@ train (t-3rywhpnuh9enusizfau4u0u1f) {
   plan (dY1NCsIwEIVf6//OhSBuPELuoIggiAt7gtBM24E2gTQGuvHsppUgVlzMMO/7Bh5W2FadsqYkLQrWSmTOWLrowozFOaxBYv9HPFuSNq+w8exFSUZkQ75TyUZjF+nxwbX6UvuoDqphza2z0rGnE3tue7+O/mpyWbPrPhV9+S+N5CYbwhIJUkwwxQxzLELGiCTAwBDY+07DhL8X)
   last-modified (1562137730650)
 }
+train (t-3x6fmdo5933jmmvchf7hpvz7b) {
+  utterance ("[g:StoreInfo] (인천)[v:geo.LocalityName](에)[v:Addvoca:Addvocaby] 충전소 (찾아줘)[v:Where1:Whereby1]")
+  plan (dY7PCsIwDId/Ov978aCIlz3CwEeYiCCIBz14LjZuga2Frha8+Ox2YtEptjQ035eQYIx5fpNGZ6SSCyuZHK02tFUX/S02PjwlZk2RSun0WSD+U3+vSJhzjmnTn3IytMTUsUsy0snxWXWgjLXCItDVlQvZUHFQqSxZcWWNsOxozY6r2k+C3/mlCra394h6pV8ayF6UhBFaaCNCB1300McAQ8/gaX2jD9pCOPUveuUd/9o++p4H)
+  last-modified (1574839822175)
+}
 train (t-3y79wsgxdxxfjmzb8u1lotv8c) {
   utterance ("[g:StoreInfo] (경기도)[v:geo.LevelOneDivisionName](에)[v:Addvoca:Addvocaby] 수소 충전소 (어딨어)[v:Where1:Whereby1]")
   plan (fc5Ra8IwEAfwv606dfqmbAOp36DgR3CIIAwH88Hn0FzbgzaBtAb24mdfWgiuHTMhR+5+dyFY4CX/lkZnpOKUlYzPtTZ0VKnuw8GFFrHqwk5KqxOB6J/+W0XCJDmWXb/kZGiLpWUbZ6Tjc9v1RRlrhTdffb9yITsUedrJkhVXtRE1W9qz5arxV+8fZKn4VHdZe2m+9kejR3oT2Dz27f35Pp5ESZhjgAAhhhhhjCdMMMUMz64OJ80OezKAX80t/JUP3QlcdLM/)
