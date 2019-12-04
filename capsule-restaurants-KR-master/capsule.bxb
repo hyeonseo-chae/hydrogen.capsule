@@ -1,17 +1,17 @@
 capsule {
   id (hydrogen.find)
-  version (1.2.2)
+  version (1.2.3)
   format (3)
   targets {
     target (bixby-mobile-ko-KR)// Korean(South Korea)
     target (bixby-mobile-en-US)
     {enabled (false)}
   }
-  store-countries{
-    only{
-      allow(KR)
-    }
-    }
+  // store-countries{
+  //   only{
+  //     allow(KR)
+  //   }
+  //   }
   store-sections{
     section (TravelAndTransportation)
     section (Local)
