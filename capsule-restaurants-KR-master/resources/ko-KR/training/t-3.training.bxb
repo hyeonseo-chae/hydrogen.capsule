@@ -1,12 +1,17 @@
+train (t-3j37e5rco90zkgsg44mz2u8ef) {
+  utterance ("[g:StoreInfo] (서초구)[v:geo.SubLocalityOneName] 충전소 (찾아줘)[v:Where1:Whereby1]")
+  plan (dY7bCoJAEIZ/s/O1FHXhIyz0CEUEQRTkRdemow7oLqwH8KZnb7UsDBqYGeb7hmEwxzKpQ61ikiJiGQqvUJqOMlK/4mBKK+H+EY+cfB0kcPr+lpCmDZyKKxGTEl67daWYlcSqo7uS07Cn3E5tw4wl54X2C65ozxXnjV98Dpb3kwr8lIv6IgnrjreP/XF9fvYzwgwWBrAxxAhjTDA1BIY19MssvKLp9nuy2zTbTw==)
+  last-modified (1575621214569)
+}
 train (t-3krbil0spjntwh8utzhry7ld9) {
   utterance ("[g:Hydrogen] (근처)[v:Near:Nearby] 충전소 (알려줘)[v:Where:Whereby]")
   plan (Y2BlEMuoTCnKT0/N00vLzEvR84DyGGRRxd1TS2BSnnlp+QxCqNJ+qYlFDMKoYuEZqUWpDLxlmWV6xak5aXrBQIKBhYGRgYmBGUgzAFkQCAPMQAySYwAA)
   last-modified (1562137752806)
 }
 train (t-3lo6de2eb7o9zeoteq7a7wcnf) {
-  utterance ("[g:StoreInfo] (장성군)[v:geo.SubLocalityOneName] 수소 충전소")
-  plan (dY5NCsIwEEa/+u9eFF30CLmDIoIgCvYEsUnbgTaBNA1049mNkQotdDHDfO8Nw2CNXdEKo3OpWEZKsMRqI68q00Nx8S1IxCPiXUtu0gIbR47lUrMk5KfMSSvsO3pqqBQ9FXfqKCpSVFvDLTl5Jkf112//B5vXTae8JNs+lMSh4+GFEdfnd15JrBBhgilmmGOBpc8YkAgIDJ795okvv/cB)
-  last-modified (1567266837078)
+  utterance ("[g:StoreInfo] (장성군)[v:geo.LocalityName] 수소 충전소")
+  plan (dY1NCsIwEIVf6//OhSBuPELuoIggiAt7gtBM24E2gTQGuvHsppUgVlzMMO/7Bh5W2FadsqYkLQrWSmTOWLrowozFOaxBYv9HPFuSNq+w8exFSUZkQ75TyUZjF+nxwbX6UvuoDqphza2z0rGnE3tue7+O/mpyWbPrPhV9+S+N5CYbwhIJUkwwxQxzLELGiCTAwBDY+07DhL8X)
+  last-modified (1575619539011)
 }
 train (t-3rywhpnuh9enusizfau4u0u1f) {
   utterance ("[g:StoreInfo] (서울)[v:geo.LocalityName] 충전소")

@@ -8,11 +8,6 @@ train (t-re7cu82rbjgu9qbkp8sn4p96o) {
   plan (dY5NCsIwEEa/+u9eFF30CLmDIoIgCvYEsUnbgTaBNA1049mNkQotdDHDfO8Nw2CNXdEKo3OpWEZKsMRqI68q00Nx8S1IxCPiXUtu0gIbR47lUrMk5KfMSSvsO3pqqBQ9FXfqKCpSVFvDLTl5Jkf112//B5vXTae8JNs+lMSh4+GFEdfnd15JrBBhgilmmGOBpc8YkAgIDJ795okvv/cB)
   last-modified (1567267037360)
 }
-train (t-reh59pdl7jpn25utr6uf98hgk) {
-  utterance ("[g:StoreInfo] (을주군)[v:geo.SubLocalityOneName] 수소 충전소")
-  plan (dY5NCsIwEEa/+u9eFF30CLmDIoIgCvYEsUnbgTaBNA1049mNkQotdDHDfO8Nw2CNXdEKo3OpWEZKsMRqI68q00Nx8S1IxCPiXUtu0gIbR47lUrMk5KfMSSvsO3pqqBQ9FXfqKCpSVFvDLTl5Jkf112//B5vXTae8JNs+lMSh4+GFEdfnd15JrBBhgilmmGOBpc8YkAgIDJ795okvv/cB)
-  last-modified (1567266968153)
-}
 train (t-rmpwhp4yh5i67i4krkjdxm4t6) {
   utterance ("[g:StoreInfo] (충북)[v:geo.LevelOneDivisionName] 충전소")
   plan (fc7tCoIwGIbhR/uuv0EFYWcgdAhFBEEU5BGMfNUXdAO1QX889qYhkpWDje2+xhhmWERPP1UhSTdg6bterlI6yUC14WiWCuH8gSIjkd4jzDVrNyTletX5RiEriVVd9w+O/Q9yatr5CUvO8lTkrOnAmrPSl7WfSVN8lY2sayk/8aVOlxYCm27fNs+38SISwhQWbPTQxwBDjDDGxDT8qBZQdZj+3pfDNtPcfwE=)

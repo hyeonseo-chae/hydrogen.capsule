@@ -1,7 +1,12 @@
-train (t-n79hgdapzi6u682qjyb9g7e1t) {
-  utterance ("[g:StoreInfo] (창원시)[v:geo.SubLocalityOneName] 수소 충전소")
+train (t-n6zafbgd65tcac05l588xxphl) {
+  utterance ("[g:StoreInfo] (울주군)[v:geo.SubLocalityOneName] 수소 충전소")
   plan (dY5NCsIwEEa/+u9eFF30CLmDIoIgCvYEsUnbgTaBNA1049mNkQotdDHDfO8Nw2CNXdEKo3OpWEZKsMRqI68q00Nx8S1IxCPiXUtu0gIbR47lUrMk5KfMSSvsO3pqqBQ9FXfqKCpSVFvDLTl5Jkf112//B5vXTae8JNs+lMSh4+GFEdfnd15JrBBhgilmmGOBpc8YkAgIDJ795okvv/cB)
-  last-modified (1567267200118)
+  last-modified (1575620724006)
+}
+train (t-n79hgdapzi6u682qjyb9g7e1t) {
+  utterance ("[g:StoreInfo] (창원시)[v:geo.LocalityName] 수소 충전소")
+  plan (dY1NCsIwEIVf6//OhSBuPELuoIggiAt7gtBM24E2gTQGuvHsppUgVlzMMO/7Bh5W2FadsqYkLQrWSmTOWLrowozFOaxBYv9HPFuSNq+w8exFSUZkQ75TyUZjF+nxwbX6UvuoDqphza2z0rGnE3tue7+O/mpyWbPrPhV9+S+N5CYbwhIJUkwwxQxzLELGiCTAwBDY+07DhL8X)
+  last-modified (1575620063357)
 }
 train (t-not27ly1nyyhmc3t4ryokrfjp) {
   utterance ("[g:StoreInfo] (부산)[v:geo.LocalityName] 수소 충전소 (어딨어)[v:Where1:Whereby1]")

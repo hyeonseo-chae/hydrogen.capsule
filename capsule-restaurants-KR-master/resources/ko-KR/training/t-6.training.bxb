@@ -1,7 +1,12 @@
 train (t-6005k68dlav38vcgsjldhujuf) {
-  utterance ("[g:StoreInfo] (장성군)[v:geo.SubLocalityOneName] 수소 충전소 (찾아줘)[v:Where1:Whereby1]")
-  plan (dY7bCoJAEIZ/s/O1FHXhIyz0CEUEQRTkRdemow7oLqwH8KZnb7UsDBqYGeb7hmEwxzKpQ61ikiJiGQqvUJqOMlK/4mBKK+H+EY+cfB0kcPr+lpCmDZyKKxGTEl67daWYlcSqo7uS07Cn3E5tw4wl54X2C65ozxXnjV98Dpb3kwr8lIv6IgnrjreP/XF9fvYzwgwWBrAxxAhjTDA1BIY19MssvKLp9nuy2zTbTw==)
-  last-modified (1567266867763)
+  utterance ("[g:StoreInfo] (장성군)[v:geo.LocalityName] 수소 충전소 (찾아줘)[v:Where1:Whereby1]")
+  plan (dY7PCoJAEId/Zv9PHYTo4iMs9AhFBEF0yENnyVEHdBdWE7z07O1ai1g0MDPM9w3MYIl13iZaZSRFyjIRUa00nWSqvsXRlE4i/COeFcX6niMY+ltOmrYIGm5ERkpE3daVMlYSG0f3Dy6SgQqd2iUlS65qHdfc0IEbrqxfOX9W97jguu1P2Jd+qSOXuCQs4GEEH2NMMMUMc0NgmKU98/AO2/3P5Hdptl8=)
+  last-modified (1575619590180)
+}
+train (t-6dnl6iknhsoprn0gxt7hagm8v) {
+  utterance ("[g:StoreInfo] (충주시)[v:geo.LocalityName] 충전소 (찾아줘)[v:Where1:Whereby1]")
+  plan (dY7PCoJAEId/Zv9PHYTo4iMs9AhFBEF0yENnyVEHdBdWE7z07O1ai1g0MDPM9w3MYIl13iZaZSRFyjIRUa00nWSqvsXRlE4i/COeFcX6niMY+ltOmrYIGm5ERkpE3daVMlYSG0f3Dy6SgQqd2iUlS65qHdfc0IEbrqxfOX9W97jguu1P2Jd+qSOXuCQs4GEEH2NMMMUMc0NgmKU98/AO2/3P5Hdptl8=)
+  last-modified (1575619819565)
 }
 train (t-6v3joyxi2e94t6d1udg08kujr) {
   utterance ("[g:StoreInfo] (서울)[v:geo.LocalityName] 수소 충전소 (어딨어)[v:Where1:Whereby1]")

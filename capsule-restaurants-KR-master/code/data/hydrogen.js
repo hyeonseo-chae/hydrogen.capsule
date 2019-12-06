@@ -376,7 +376,7 @@ module.exports = [
     location: "울산 울주군 온산읍 온산로 256",
     location1:{
       levelOneDiv: "울산광역시",
-      levelTwoDiv: "을주군",
+      levelTwoDiv: "울주군",
       place: "온산읍 온산로 256"
   },
     name: "그린복합충전소",

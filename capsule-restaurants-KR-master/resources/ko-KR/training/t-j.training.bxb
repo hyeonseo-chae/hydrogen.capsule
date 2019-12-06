@@ -1,7 +1,7 @@
 train (t-ja2u23utuyjrx3dj1dobrs1as) {
-  utterance ("[g:StoreInfo] (성주군)[v:geo.SubLocalityOneName] 수소 충전소")
-  plan (dY5NCsIwEEa/+u9eFF30CLmDIoIgCvYEsUnbgTaBNA1049mNkQotdDHDfO8Nw2CNXdEKo3OpWEZKsMRqI68q00Nx8S1IxCPiXUtu0gIbR47lUrMk5KfMSSvsO3pqqBQ9FXfqKCpSVFvDLTl5Jkf112//B5vXTae8JNs+lMSh4+GFEdfnd15JrBBhgilmmGOBpc8YkAgIDJ795okvv/cB)
-  last-modified (1567267222988)
+  utterance ("[g:StoreInfo] (성주군)[v:geo.LocalityName] 수소 충전소")
+  plan (dY1NCsIwEIVf6//OhSBuPELuoIggiAt7gtBM24E2gTQGuvHsppUgVlzMMO/7Bh5W2FadsqYkLQrWSmTOWLrowozFOaxBYv9HPFuSNq+w8exFSUZkQ75TyUZjF+nxwbX6UvuoDqphza2z0rGnE3tue7+O/mpyWbPrPhV9+S+N5CYbwhIJUkwwxQxzLELGiCTAwBDY+07DhL8X)
+  last-modified (1575620037141)
 }
 train (t-jc6hlkkwjmtqckjgu96yvju1v) {
   utterance ("[g:Hydrogen] Where is the hydrogen station (nearby)[v:Near:Nearby]")
